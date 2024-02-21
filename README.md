@@ -1,6 +1,6 @@
-[![Docker build](https://github.com/Dan6erbond/share-me/actions/workflows/main.yml/badge.svg)](https://github.com/Dan6erbond/share-me/actions/workflows/main.yml)
-[![Latest Release](https://img.shields.io/github/v/release/Dan6erbond/share-me?include_prereleases)](https://github.com/Dan6erbond/share-me/releases/latest)
-[![GitHub Issues](https://img.shields.io/github/issues/Dan6erbond/share-me)](https://github.com/Dan6erbond/share-me/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+[![Docker build](https://github.com/bytegun/share-me/actions/workflows/main.yml/badge.svg)](https://github.com/bytegun/share-me/actions/workflows/main.yml)
+[![Latest Release](https://img.shields.io/github/v/release/bytegun/share-me?include_prereleases)](https://github.com/bytegun/share-me/releases/latest)
+[![GitHub Issues](https://img.shields.io/github/issues/bytegun/share-me)](https://github.com/bytegun/share-me/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
 # Share Me
 
@@ -131,5 +131,5 @@ This project is licensed under [MIT](./LICENSE).
 ## Support
 
 <div style="display: flex; justify-content: center">
-  <a href="https://www.buymeacoffee.com/dan6erbond"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dan6erbond&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://www.buymeacoffee.com/bytegun"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bytegun&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
