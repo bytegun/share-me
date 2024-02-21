@@ -131,5 +131,5 @@ This project is licensed under [MIT](./LICENSE).
 ## Support
 
 <div style="display: flex; justify-content: center">
-  <a href="https://www.buymeacoffee.com/bytegun"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bytegun&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://www.coindrop.to/bytegun"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bytegun&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
